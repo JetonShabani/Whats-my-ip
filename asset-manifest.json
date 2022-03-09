@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ipwebsite/static/css/main.6b9b1e2b.css",
+    "main.js": "/ipwebsite/static/js/main.9a685705.js",
+    "index.html": "/ipwebsite/index.html",
+    "main.6b9b1e2b.css.map": "/ipwebsite/static/css/main.6b9b1e2b.css.map",
+    "main.9a685705.js.map": "/ipwebsite/static/js/main.9a685705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b9b1e2b.css",
+    "static/js/main.9a685705.js"
+  ]
+}
